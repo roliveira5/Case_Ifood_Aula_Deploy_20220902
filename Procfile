@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run deploy_streamlit_case_ifood.py
